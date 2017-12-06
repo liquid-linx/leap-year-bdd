@@ -29,8 +29,8 @@ Input any year and program will determine if it is a leap year.
 * Javascript
   * Jquery
   * CSS
-  * ASP.NET Kestrel HTTP server
-  * xUnit
+  * HTML
+  
 
 ## Support and contact details
 
